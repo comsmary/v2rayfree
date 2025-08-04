@@ -26,7 +26,7 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 
 ```  
-trojan://4684a922-2d4d-4c47-9e31-fe2c937e262f@156.239.27.49:18890?type=tcp&security=tls&allowInsecure=1#233boy-trojan-156.239.27.49
+vless://2399a8e1-86b1-4411-8efd-a082fc82be03@blog.aoterniu.wang:443?encryption=none&security=tls&type=ws&host=blog.aoterniu.wang&path=/2399a8e1-86b1-4411-8efd-a082fc82be03#233boy-ws-blog.aoterniu.wang
 ss://YWVzLTI1Ni1nY206YW90ZXJuaXUud2FuZw==@156.239.27.49:18891#233boy-ss-156.239.27.49
 ss://YWVzLTI1Ni1nY206YW90ZXJuaXUud2FuZw==@156.239.27.49:18892#233boy-ss-156.239.27.49
 hysteria2://9efc63e8-4362-434f-8216-84fc64838412@156.239.27.49:18893?alpn=h3&insecure=1#233boy-hysteria2-156.239.27.49
