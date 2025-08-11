@@ -26,9 +26,7 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 
 ```  
-vmess://eyJ2IjoyLCJwcyI6IjIzM2JveS13cy1hZC5hb3Rlcm5pdS53YW5nIiwiYWRkIjoiYWQuYW90ZXJuaXUud2FuZyIsInBvcnQiOiI0NDMiLCJpZCI6ImNmNDUzYWI3LWQwMmQtNGJlYS1iZGRiLTAxOGQyZTJiYjQzYSIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsImhvc3QiOiJhZC5hb3Rlcm5pdS53YW5nIiwicGF0aCI6Ii9jZjQ1M2FiNy1kMDJkLTRiZWEtYmRkYi0wMThkMmUyYmI0M2EiLCJ0bHMiOiJ0bHMifQ==
-ss://YWVzLTI1Ni1nY206YW90ZXJuaXUud2FuZw==@156.239.27.49:18891#233boy-ss-156.239.27.49
-ss://YWVzLTI1Ni1nY206YW90ZXJuaXUud2FuZw==@156.239.27.49:18892#233boy-ss-156.239.27.49
+vless://d751165d-819f-4967-ae26-bf690d74bb18@blog.aoterniu.wang:10086?type=ws&security=tls&path=%2Fv2-terniu&sni=blog.aoterniu.wang#MyServer_10086
 hysteria2://9efc63e8-4362-434f-8216-84fc64838412@156.239.27.49:18893?alpn=h3&insecure=1#233boy-hysteria2-156.239.27.49
 trojan://ffc3ff3e-7cda-4de4-9716-d966d4430eb1@156.239.27.49:18894?type=tcp&security=tls&allowInsecure=1#233boy-trojan-156.239.27.49
 hysteria2://406aefb6-2513-4ae7-a15f-aa7e57293018@156.239.27.49:18895?alpn=h3&insecure=1#233boy-hysteria2-156.239.27.49
