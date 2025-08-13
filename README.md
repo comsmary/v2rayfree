@@ -14,13 +14,11 @@ CTRL+A网页全选，CTRL+C复制，右键点击任务栏v2rayN客户端图标�
 ## v2ray免费节点分享
 
 ```  
-vless://d751165d-819f-4967-ae26-bf690d74bb18@blog.aoterniu.wang:10086?type=ws&security=tls&path=%2Fv2-terniu&sni=blog.aoterniu.wang#MyServer_10086
-hysteria2://9efc63e8-4362-434f-8216-84fc64838412@156.239.27.49:18893?alpn=h3&insecure=1#233boy-hysteria2-156.239.27.49
-trojan://ffc3ff3e-7cda-4de4-9716-d966d4430eb1@156.239.27.49:18894?type=tcp&security=tls&allowInsecure=1#233boy-trojan-156.239.27.49
-hysteria2://406aefb6-2513-4ae7-a15f-aa7e57293018@156.239.27.49:18895?alpn=h3&insecure=1#233boy-hysteria2-156.239.27.49
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphb3Rlcm5pdS53YW5n@156.239.27.49:18896#233boy-ss-156.239.27.49
-
-
+hysteria2://abeb9d0e-e1b6-4997-a004-ff90c2efd01c@156.239.27.49:23346?alpn=h3&insecure=1#233boy-hysteria2-156.239.27.49
+vmess://eyJ2IjoyLCJwcyI6IjIzM2JveS1xdWljLTE1Ni4yMzkuMjcuNDkiLCJhZGQiOiIxNTYuMjM5LjI3LjQ5IiwicG9ydCI6IjIzMzU3IiwiaWQiOiJkZGZlMmUyYS01ODM5LTRkZTYtYjdhZC1kZDhkNGU1YjY1ODkiLCJhaWQiOiIwIiwibmV0IjoicXVpYyIsInR5cGUiOiJub25lIiwidGxzIjoidGxzIiwiYWxwbiI6ImgzIn0=
+vless://0cef82bd-5cd7-4398-8203-8b7ea1f82887@156.239.27.49:23358?encryption=none&security=reality&flow=&type=h2&sni=www.amazon.com&pbk=0PrBWpq4MJZ3h-4EqbTqqf820hNGn-sz3Z6zYkYbuUk&fp=chrome#233boy-reality-156.239.27.49
+trojan://6f15a175-2244-4114-8da1-42a902e7794b@156.239.27.49:24459?type=tcp&security=tls&allowInsecure=1#233boy-trojan-156.239.27.49
+tuic://f21cfe65-a3a0-4952-9be0-757ef5f7e5b2:f21cfe65-a3a0-4952-9be0-757ef5f7e5b2@156.239.27.49:24460?alpn=h3&allow_insecure=1&congestion_control=bbr#233boy-tuic-156.239.27.49
 ```
 
 更多推荐：[免费节点](https://clashgithub.com)  [clash节点](https://github.com/aiboboxx/clashfree)  [免费clash节点](https://clashbk.github.io/)
